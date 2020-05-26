@@ -8,4 +8,16 @@
 ## Requirements
 jre & jdk 1.8.0_241
 
+## uploaded the Calculator.jar (Runnable jar file for desktop): just download it and use the app.
+
 ## Made using Eclipse IDE
+## Front View of the app
+![Frontview](https://github.com/Coderode/Images/blob/master/calculator/front.PNG)
+
+![cal1](https://github.com/Coderode/Images/blob/master/calculator/cal1.PNG)
+
+![cal2](https://github.com/Coderode/Images/blob/master/calculator/cal2.PNG)
+
+![cal3](https://github.com/Coderode/Images/blob/master/calculator/cal3.PNG)
+
+
